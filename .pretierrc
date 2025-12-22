@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "printWidth": 80,
   "tabWidth": 2,
@@ -12,19 +12,4 @@
   "arrowParens": "always",
   "proseWrap": "always",
   "endOfLine": "lf"
-=======
-{
-  "printWidth": 80,
-  "tabWidth": 2,
-  "useTabs": false,
-  "semi": true,
-  "singleQuote": true,
-  "quoteProps": "as-needed",
-  "trailingComma": "es5",
-  "bracketSpacing": true,
-  "jsxBracketSameLine": false,
-  "arrowParens": "always",
-  "proseWrap": "always",
-  "endOfLine": "lf"
->>>>>>> 1b8e86a (Update index html and add images)
 }
