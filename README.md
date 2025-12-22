@@ -1,2 +1,0 @@
-# Genius-Space
-My studies
