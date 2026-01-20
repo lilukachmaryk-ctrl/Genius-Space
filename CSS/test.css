@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.flex-container {
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+}
+
+.item {
+   /* width: 100px;               */
+  align-self: flex-start;
+  flex-basis: 100px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  /* align-self: flex-start; */
+  height: 100px;
+  background-color: burlywood;
+  padding: 10px;
+  border: 6px solid darkred;
+  margin: 10px;
+}
+
+
+
